@@ -20,16 +20,16 @@ const forumData: ForumCategory[] = [
         id: 'sec-1',
         title: 'Новости проекта',
         description: 'Последние обновления и важные объявления от администрации.',
-        topicsCount: 15,
-        postsCount: 210,
+        topicsCount: 0,
+        postsCount: 0,
         lastPost: { title: 'Открытие проекта Aspect RP', author: 'Artem_Protsko', date: 'Сегодня в 14:20' }
       },
       {
         id: 'sec-2',
         title: 'Общий раздел',
         description: 'Общение на свободные темы, идеи и предложения по улучшению.',
-        topicsCount: 842,
-        postsCount: 12450
+        topicsCount: 0,
+        postsCount: 0
       }
     ]
   },
@@ -42,15 +42,15 @@ const forumData: ForumCategory[] = [
         id: 'sec-3',
         title: 'Государственные организации',
         description: 'Полиция, Мэрия, Армия и Больницы.',
-        topicsCount: 145,
-        postsCount: 3200
+        topicsCount: 0,
+        postsCount: 0
       },
       {
         id: 'sec-4',
         title: 'Уличные группировки',
         description: 'Гетто, Мафии и нелегальные организации.',
-        topicsCount: 92,
-        postsCount: 1840
+        topicsCount: 0,
+        postsCount: 0
       }
     ]
   },
@@ -63,8 +63,8 @@ const forumData: ForumCategory[] = [
         id: 'sec-5',
         title: 'Техническая поддержка',
         description: 'Проблемы с лаунчером, подключением или игровым аккаунтом.',
-        topicsCount: 56,
-        postsCount: 234
+        topicsCount: 0,
+        postsCount: 0
       }
     ]
   }
