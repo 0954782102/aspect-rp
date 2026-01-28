@@ -241,7 +241,7 @@ const App: React.FC = () => {
                       <div className="flex items-center space-x-4 p-3 bg-[#0d1117] border border-[#30363d] rounded">
                         <div className="w-10 h-10 rounded bg-indigo-600 flex items-center justify-center font-bold text-xs uppercase">YK</div>
                         <div>
-                          <div className="font-bold text-white">Ярослав Куриленок</div>
+                          <div className="font-bold text-white">Ярослав</div>
                           <div className="text-xs text-indigo-500 uppercase font-bold">Ведущий дизайнер</div>
                         </div>
                       </div>
